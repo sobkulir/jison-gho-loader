@@ -1,6 +1,6 @@
 {
   "name": "jison-gho-loader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A loader for webpack which transforms .jison files into JS code.",
   "main": "index.js",
   "scripts": {
